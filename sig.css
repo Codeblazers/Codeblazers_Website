@@ -1,0 +1,29 @@
+body
+{
+border-style:solid;
+border-color:blue;
+margin-top:10em;
+margin-bottom:15em;
+margin-left:20em;
+margin-right:20em;
+outline-style:groove;
+outline-color:green;
+outline-width:6em;
+	}
+
+
+
+.headers
+{
+color:black;
+text-align:center;	
+font-family:Courier;
+border-style:solid;
+border-color:black;
+margin-bottom:5px;
+margin-top:5px;
+margin-left:5px;
+margin-right:5px;
+background-color:grey;
+	}
+	
