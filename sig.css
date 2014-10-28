@@ -1,29 +1,110 @@
+
+
 body
 {
-border-style:solid;
-border-color:blue;
-margin-top:10em;
-margin-bottom:15em;
-margin-left:20em;
-margin-right:20em;
-outline-style:groove;
-outline-color:green;
-outline-width:6em;
+background-image:url(DSC00079.JPG);	
+width:90%;
+}
+
+#sir
+{
+	 position:relative;
+	 left:33%;
+    border:groove;
+    border-color:black;
+    border-width:1em;
+    
+	}
+
+/*main navigation bar*/
+
+/*unordered list style start*/
+#babl
+{
+	list-style-type:none;	
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	position:relative;
+	left:5%;
+	}
+
+/*li selector*/
+#hel
+{
+	float:left;	
 	}
 
 
 
+#lisy:link, #lisy:visited
+{
+	display:block;
+	width:15em;
+	font-weight:bold;
+	color:red;
+	background-color: black;
+	text-align:center;
+	padding:4px;
+	text-decoration:none;
+	text-transform:uppercase;
+	border-style:solid;
+	border-color:red;
+	border-width:8px;
+	}
+/*Link when hovered over*/
+#lisy:hover, #lisy:active
+{
+	background-color:lightblue; 	
+	}
+/*comment signifies the end of the navigation bar*/
+
+/*May have to do header borders in a separate id "sige"*/
+#sige
+{
+	
+	}
+
+
+/*headers styling*/
 .headers
 {
-color:black;
-text-align:center;	
-font-family:Courier;
-border-style:solid;
-border-color:black;
-margin-bottom:5px;
-margin-top:5px;
-margin-left:5px;
-margin-right:5px;
-background-color:grey;
-	}
+	border:solid;
+	text-decoration:underline;
+	margin-left:15em;
+	margin-right:18em;
+	text-align:center;
+	background-color:lightgray;
+	color:black;
+	border-color:grey;
+	margin-top:15px;
+	text-transform:uppercase;}
 	
+/*paragraphs styling*/
+
+.paragraphs
+{
+	border:solid;
+	margin-top:15px;
+	border-width:1em;
+	text-align:center;
+	margin-left:9em;
+	margin-right:11em;
+	border-color:lightseagreen;
+	background-color:skyblue;
+	font-style:italic;
+	font-weight:bold;
+	font-size:22px;}
+	
+	
+/*link for github styling*/	
+.github
+{
+	float:right;
+	color:red;
+	display:block;
+	width:5em;
+	font-weight:bold;
+	text-transform:uppercase;
+	background-color:lightskyblue;
+	text-decoration:none;}

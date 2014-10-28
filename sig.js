@@ -1,6 +1,2 @@
-document.getElementById("navbar").innerHTML =
-"<ul id='menu'>" +
-"<li><a href='index.html'>Home</a></li>" +
-"<li><a href='Customers.html'></a></li>" +
-"<li><a href=''></a></li>" +
-"</ul>";
+document.getElementById("foot01").innerHTML = 
+"<p>&copy;  " + new Date().getFullYear() + " Codeblazers. All rights reserved.</p>";
