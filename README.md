@@ -1,12 +1,12 @@
-Prayingctrlc/tirex
+Codeblazers
 =====
 
-Website in development
+Website for Codeblazers
 
+We need to add more developers to the team.
+We should create a database for registration, blogs, comments, etc... Need ideas
+to bring the project further along. 
 
-Stuff to be done
+The main focus of this collaboration of people is to create a team of web developers and programmers.
 
-1. Add more customized elements such as a logo and a title.
-2. Add an image database.
-3. Need more ideas.
-4. Add more ambition.
+Let us start a team and create things with it. :D
